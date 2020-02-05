@@ -7,7 +7,7 @@ Height(nm)	Peak_Force_Error(nN)	Sneddon_Modulus(MPa)	Deformation(nm)
 HOW TO USE:
 1. Put raw data (bulk) with .m script under the same directory (here data are from Bruker AFM devices);
 2. Run Modulus*.m scripts;
-3. Circle out ROIs using your mouse by left clicking. End selection of one ROI by middle clickling and begin next circling out on the same graph. End capturing by right click.
+3. Circle out ROIs using your mouse by left clicking. End selection of one ROI by middle clicking and begin next circling out on the same graph. End capturing by right click.
 
 Notes:
 1. result.out contains mean 'Height' and 'Modulus' of ROIs;
@@ -15,3 +15,4 @@ Notes:
 3. ROIs are recorded in *.cxy and *.png.
 
 IF scripts in this thread were used, please cite:
+Hu, J., Chen, S., Huang, D. et al. Biophys Rep (2020). https://doi.org/10.1007/s41048-019-00103-9
